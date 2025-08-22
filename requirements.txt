@@ -11,4 +11,5 @@ bs4
 pypdf
 pymupdf
 faiss-cpu
-faiss-gpu
+wikipedia
+langchainhub
